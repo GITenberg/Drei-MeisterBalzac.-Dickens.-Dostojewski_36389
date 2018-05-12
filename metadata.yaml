@@ -1,0 +1,32 @@
+_repo: Drei-MeisterBalzac.-Dickens.-Dostojewski_36389
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 36389-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Zweig, Stefan
+    alias: Branch, Stephen
+    birthdate: 1881
+    deathdate: 1942
+    gutenberg_agent_id: '26291'
+    url: http://www.gutenberg.org/2009/agents/26291
+    wikipedia: http://en.wikipedia.org/wiki/Stefan_Zweig
+description: ''
+gutenberg_bookshelf: DE Sachbuch
+gutenberg_issued: '2011-06-12'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '36389'
+language: de
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Balzac, Honoré de, 1799-1850 -- Criticism and interpretation'
+- !lcsh 'Dostoyevsky, Fyodor, 1821-1881 -- Criticism and interpretation'
+- !lcsh 'Fiction -- 19th century -- History and criticism'
+- !lcsh 'Dickens, Charles, 1812-1870 -- Criticism and interpretation'
+- !lcc 'PN'
+title: 'Drei Meister: Balzac, Dickens, Dostojewski'
+url: http://www.gutenberg.org/ebooks/36389
